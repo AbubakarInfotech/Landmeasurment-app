@@ -1,0 +1,6 @@
+{
+  "name": "Land Measurement Calculator",
+  "description": "Area and plot measurement calculator for Punjab and Sindh land buyers and sellers, supporting Urdu, Sindhi, English, and local units like marla, kanal, wesa, and jareeb.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
